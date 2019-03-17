@@ -49,3 +49,9 @@ in case it doesnt work you can try(only for linux/macOS)
 sudo apt-get install numpy
 ```
 **Congratulations**, you are all set for start using the project.
+## Running of Code
+running of code is as simple as (suppose you want to compile question1 file)
+```sh
+python question1.py
+```
+and you will see your graph on screen.

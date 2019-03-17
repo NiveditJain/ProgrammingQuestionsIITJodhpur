@@ -3,13 +3,9 @@ This repository contains all programming questions given by various professors i
 ## Getting Started
 Just clone this repository on your Machine to get started.
 You can directly download it
-or use the following the instructions in cmd(windows)/command line (linus/mac) 
-Step 1: Create a folder(any name)
-Step 2: Use the command 
-...
-git init
-...
-Step 3:
-...
-git clone https://github.com/NiveditJain/ProgrammingQuestionsIITJodhpur.git
-...
+or 
+use the following the instructions in cmd(windows)/command line (linus/mac) 
+**Step 1:** Create a folder(any name)
+**Step 2**: Use the command 
+...git init...
+**Step 3:**...git clone https://github.com/NiveditJain/ProgrammingQuestionsIITJodhpur.git ...

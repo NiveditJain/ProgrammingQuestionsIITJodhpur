@@ -10,6 +10,7 @@ Use the following the instructions in cmd(windows)/command line (linus/mac)</br>
 ```sh
 git init
 ```
+If git not installed follow procedure in prerequisite
 **Step 3:**
 ```sh 
 git clone https://github.com/NiveditJain/ProgrammingQuestionsIITJodhpur.git 

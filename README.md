@@ -55,3 +55,7 @@ running of code is as simple as (suppose you want to compile question1 file)
 python question1.py
 ```
 and you will see your graph on screen.
+### Acknowledgements
+These questions are set by
+* [Dr. Rajlaxmi Chauhan](http://home.iitj.ac.in/~rajlaxmichouhan/)
+* Dr. B. Ravindra, details can be found at [IITJ website](http://iitj.ac.in/department/index.php?dept=me&id=faculty_members).

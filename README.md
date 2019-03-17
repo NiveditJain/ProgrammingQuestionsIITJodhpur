@@ -7,10 +7,10 @@ or
 use the following the instructions in cmd(windows)/command line (linus/mac) 
 **Step 1:** Create a folder(any name)
 **Step 2**: Use the command 
-'''sh
+```sh
 git init
-'''
+```
 **Step 3:**
-'''sh 
+```sh 
 git clone https://github.com/NiveditJain/ProgrammingQuestionsIITJodhpur.git 
-'''
+```

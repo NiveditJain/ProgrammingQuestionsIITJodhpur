@@ -10,8 +10,16 @@ Use the following the instructions in cmd(windows)/command line (linus/mac)</br>
 ```sh
 git init
 ```
-If git not installed follow procedure in prerequisite
+If git not installed follow procedure in prerequisite</br>
 **Step 3:**
 ```sh 
 git clone https://github.com/NiveditJain/ProgrammingQuestionsIITJodhpur.git 
 ```
+###Prerequisites
+#####Git 
+For downloading this project you need to install Git bash on your system</br>
+For mac/linux you can use the following commands
+```sh
+sudo apt install git
+```
+for windows you can directly download from [git website](https://git-scm.com/downloads), setup git.

@@ -20,7 +20,7 @@ def rangef(theta):
 		vyd=vy
 		hd=h
 		d=dd+vx*0.0001
-		vx=vxd+(-vy)*0.0001
+		vx=vxd+(-vx)*0.0001
 		vxd=vx
 		dd=d
 		if(h<0):

@@ -40,7 +40,7 @@ for t in time:
 
 #
 	d=dd+vx*0.0001
-	vx=vxd+(-vy)*0.0001
+	vx=vxd+(-vx)*0.0001
 	vxd=vx
 	dd=d
 

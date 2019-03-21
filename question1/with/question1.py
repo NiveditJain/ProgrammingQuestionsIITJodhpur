@@ -11,6 +11,10 @@ x=[]
 vyd=vy
 h=0
 hd=h
+#
+vxd=vx
+d=0
+dd=d
 
 time1=array.arange(0,10,0.0001)
 #let u=10m/s
@@ -33,10 +37,17 @@ for t in time:
 	vy=vyd+(-9.8-vy)*0.0001
 	vyd=vy
 	hd=h
+
+#
+	d=dd+vx*0.0001
+	vx=vxd+(-vy)*0.0001
+	vxd=vx
+	dd=d
+
 	if(h<0):
 		break
 	he.append(h)
-	x.append(vx*t)
+	x.append(d)
 graph.plot(x,he,label="with resistance")
 graph.plot(x1,y1,label="without resistance")
 graph.legend()
